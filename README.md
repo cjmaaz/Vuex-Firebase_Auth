@@ -4,7 +4,7 @@
 Stored in src/firebase. It stores the configuration and initializing the firebase. Exporting Auth for creating store.
 
 ## Vuex 4 Config
-user: Stores the user object returned from the Firebase, for the verious purposes, such as email verification status etc.
+user: Stores the user object returned from the Firebase, for the verious purposes, such as email verification status etc. <br/>
 authIsReady: Store the auth state, if app is refreshed, store once connection to firebase auth is established.
 
 
